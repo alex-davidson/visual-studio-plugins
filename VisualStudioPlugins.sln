@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalSpace", "PascalSpace\PascalSpace.csproj", "{45617A51-25D6-4096-B451-A936A5F11D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalSpace.UnitTests", "PascalSpace.UnitTests\PascalSpace.UnitTests.csproj", "{8D8CCF88-36BE-4131-B0FA-B9AFC8D270EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalSpace.Engine", "PascalSpace.Engine\PascalSpace.Engine.csproj", "{B823B4FC-F026-4761-BE00-D48B28856427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45617A51-25D6-4096-B451-A936A5F11D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45617A51-25D6-4096-B451-A936A5F11D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45617A51-25D6-4096-B451-A936A5F11D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45617A51-25D6-4096-B451-A936A5F11D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8CCF88-36BE-4131-B0FA-B9AFC8D270EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8CCF88-36BE-4131-B0FA-B9AFC8D270EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8CCF88-36BE-4131-B0FA-B9AFC8D270EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8CCF88-36BE-4131-B0FA-B9AFC8D270EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B823B4FC-F026-4761-BE00-D48B28856427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B823B4FC-F026-4761-BE00-D48B28856427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B823B4FC-F026-4761-BE00-D48B28856427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B823B4FC-F026-4761-BE00-D48B28856427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
